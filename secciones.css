@@ -1,0 +1,61 @@
+h2, h4, h6{
+	text-transform: uppercase;
+	color: grey;
+	font-family: raleway;
+}
+
+h2{
+	font-size: 26px;
+	color: gray;
+}
+
+h4{
+	font-family: sans-serif;
+	font-size: 20px;
+	line-height: 1.5;
+	padding-top: 20px;
+	font-weight: normal;
+	color: gray;
+}
+
+.caja1{
+	width: 90%;
+	margin: auto;
+}
+
+.descripcion{
+	margin-top: 50px;
+	text-align: center;
+}
+
+.caja2{
+	width: 45%;
+	margin: auto;
+	margin-top: 20px;
+	background: pink;
+	border-radius: 20px
+}
+
+
+img{
+	margin: auto;
+	display: block;
+	border-radius: 20px;
+}
+
+img.galeria{
+	width: 300px;
+	height: 400px;
+	margin: auto;
+	display: inline;
+	border-radius: 20px;
+}
+
+.cajag{
+	width: 90%;
+	margin: auto;
+	margin-top: 20px;
+	padding: 5px;
+	background: pink;
+	border-radius: 20px
+}
